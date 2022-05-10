@@ -5,4 +5,4 @@
 ###Instructions
 
 1-learn git
-2- don't forget to have fun
+2-don't forget to have fun
